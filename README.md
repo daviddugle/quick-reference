@@ -10,6 +10,8 @@ some handy features I thought would be helpful for future development.
 
 * [CSS_Border_Animation](#CSS_Border_Animation)
 
+* [Animated_Gradient_Shadow](#Animated_Gradient_Shadow)
+
 
 
 
@@ -23,3 +25,12 @@ Handy border animation effect found on Youtube
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/css_border_animation/gifanimation.gif?raw=true)
 
+
+## Animated_Gradient_Shadow
+
+Animated Gradient Shadow tutorial found on Youtube
+
+<a href='https://youtu.be/1EAtn4B-76g' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated_gradient_shadow/shadow.gif?raw=true)
