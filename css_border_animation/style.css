@@ -1,0 +1,32 @@
+
+*, *:before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body {
+    background: #af4646;
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
