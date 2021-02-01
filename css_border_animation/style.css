@@ -1,5 +1,5 @@
 
-*, *:before, *::after {
+*, *::before, *::after {
     margin: 0;
     padding: 0;
     box-sizing:border-box;
@@ -31,7 +31,7 @@ a {
     color: #fff;
 }
 
-a:before {
+a::before {
     content: "";
     position: absolute;
     top:-2px;
@@ -76,7 +76,7 @@ a:hover:before {
 /* second portion */
 
 
-a:after {
+a::after {
     content: "";
     position: absolute;
     top:-2px;
