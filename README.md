@@ -12,6 +12,8 @@ some handy features I thought would be helpful for future development.
 
 * [Animated_Gradient_Shadow](#Animated_Gradient_Shadow)
 
+* [Particle_Distortion](#Particle_Distortion)
+
 
 
 
@@ -26,6 +28,8 @@ Handy border animation effect found on Youtube
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/css_border_animation/gifanimation.gif?raw=true)
 
 
+
+
 ## Animated_Gradient_Shadow
 
 Animated Gradient Shadow tutorial found on Youtube
@@ -34,3 +38,15 @@ Animated Gradient Shadow tutorial found on Youtube
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated_gradient_shadow/shadow.gif?raw=true)
+
+
+
+## Particle_Distortion
+
+I generally like the tutorials from the YouTube Chanel Online Tutorials. This one is using a video overlay to achieve the distortion effect. I like it but would rather have done something with CSS. I feel this will be beneficial to me in the future just not sure just quite where as of yet.
+
+<a href='https://youtu.be/PP0Os0UvMCs' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/particle_distortion/animated_distortion.gif?raw=true)
+
