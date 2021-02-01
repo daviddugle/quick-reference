@@ -5,8 +5,9 @@
     box-sizing:border-box;
 }
 body {
-    background: #af4646;
+    background: black;
     font-family: Arial, sans-serif;
+    color:dodgerblue;
 }
 
 .content {
@@ -17,13 +18,105 @@ body {
 }
 
 
+a {
+    position: relative;
+    text-decoration: none;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+a:before {
+    content: "";
+    position: absolute;
+    top:-2px;
+    left:-2px;
+    width: 0;
+    height: 0;
+    background: transparent;
+    border: 2px solid transparent;
+}
+
+a:hover:before {
+    animation: animate 1s linear forwards;
+}
+
+@keyframes animate {
+    0% {
+        width: 0;
+        height: 0;
+        border-top-color: dodgerblue;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+    50% {
+        width: 100%;
+        height: 0;
+        border-top-color: dodgerblue;
+        border-right-color: dodgerblue;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+    100% {
+        width:100%;
+        height: 100%;
+        border-top-color: dodgerblue;
+        border-right-color: dodgerblue;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+}
+
+/* second portion */
 
 
+a:after {
+    content: "";
+    position: absolute;
+    top:-2px;
+    left:-2px;
+    width: 0;
+    height: 0;
+    background: transparent;
+    border: 2px solid transparent;
+}
 
+a:hover:after {
+    animation: animate2 1s linear forwards;
+}
 
-
-
-
+@keyframes animate2 {
+    0% {
+        width: 0;
+        height: 0;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: dodgerblue;
+    }
+    50% {
+        width: 0;
+        height: 100%;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: dodgerblue;
+        border-left-color: dodgerblue;
+    }
+    100% {
+        width:100%;
+        height: 100%;
+        border-top-color: transparent;
+        border-right-color:transparent;
+        border-bottom-color: dodgerblue;
+        border-left-color: dodgerblue;
+    }
+}
 
 
 
