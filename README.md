@@ -21,5 +21,5 @@ Handy border animation effect found on Youtube
 <a href='https://youtu.be/JAdIgiGA0Lk' target='_blank'>link to tutorial</a>
 
 
-![DeployedPhoto]()
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/css_border_animation/css%20animation.gif?raw=true)
 
