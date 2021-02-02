@@ -16,6 +16,8 @@ some handy features I thought would be helpful for future development.
 
 * [Checkbox](#Checkbox)
 
+* [Navbar](#Navbar)
+
 
 
 
@@ -63,4 +65,16 @@ While looking for more cool CSS tutorials to check out I found this checkbox. I 
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/checkbox/checkbox.gif?raw=true)
+
+
+
+
+## Navbar
+
+Found a really cool responsive navbar. This was my first exposure to svg and I need to spend some more time on it. The demonstrator did a good job explaining how to use the elements, I just need to dive deeper into svg if I plan on using it. I can see myself using this navbar for future projects. Even if I do not use the SVG I'm certain the concepts will be beneficial. 
+
+<a href='https://youtu.be/biOMz4puGt8' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated_responsive_Navbar/navbar.gif?raw=true)
 
