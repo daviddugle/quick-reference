@@ -18,6 +18,8 @@ some handy features I thought would be helpful for future development.
 
 * [Navbar](#Navbar)
 
+* [FlexNavbar](#FlexNavbar)
+
 
 
 
