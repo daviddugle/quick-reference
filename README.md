@@ -78,3 +78,19 @@ Found a really cool responsive navbar. This was my first exposure to svg and I n
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated_responsive_Navbar/navbar.gif?raw=true)
 
+
+
+
+## FlexNavbar
+
+Can you ever have too many NavBars? I don't think so. Here is a fun one from Skillthrive. I like the different versions that they offered but am probably more partial to the first two.  
+
+<a href='https://youtu.be/PwWHL3RyQgk' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/navbar/flexNav.gif?raw=true)
+
+
+
+
+
