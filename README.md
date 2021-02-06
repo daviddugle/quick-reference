@@ -20,6 +20,8 @@ some handy features I thought would be helpful for future development.
 
 * [FlexNavbar](#FlexNavbar)
 
+* [CustomCheckBox](#CustomCheckBox)
+
 
 
 
@@ -92,6 +94,17 @@ Can you ever have too many NavBars? I don't think so. Here is a fun one from Ski
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/navbar/flexNav.gif?raw=true)
 
+
+
+
+## CustomCheckBox
+
+The tutorials for online tutorials are a little on the fast side and there isn't really any explanation as to what is making things happen but man are these things gorgeous. 
+
+<a href='https://youtu.be/tVL7Au0B1Cs' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/custom-checkbox/customCheckBox.gif?raw=true)
 
 
 
