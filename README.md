@@ -132,7 +132,7 @@ This one was suggested to me and I thougt I would give it a try, pretty simple a
 <a href='https://youtu.be/yiIi82xVjqo' target='_blank'>link to tutorial</a>
 
 
-![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated-login-form/animated-login.gif?raw=true)
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/transparent-login/transparent-login.gif?raw=true)
 
 
 
