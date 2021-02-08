@@ -22,6 +22,8 @@ some handy features I thought would be helpful for future development.
 
 * [CustomCheckBox](#CustomCheckBox)
 
+* [AnimatedLoginForm](#AnimatedLoginForm)
+
 
 
 
@@ -105,6 +107,18 @@ The tutorials for online tutorials are a little on the fast side and there isn't
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/custom-checkbox/customCheckBox.gif?raw=true)
+
+
+
+
+## AnimatedLoginForm
+
+I have to admit that I am addicted to these online tutorials. Big fan, I can see myself using these in the future, I am a little partial to blues so I may make some changes to the gradients used. 
+
+<a href='https://youtu.be/vs33UKteDpg' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated-login-form/animated-login.gif?raw=true)
 
 
 
