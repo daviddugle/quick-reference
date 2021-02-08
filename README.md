@@ -24,6 +24,8 @@ some handy features I thought would be helpful for future development.
 
 * [AnimatedLoginForm](#AnimatedLoginForm)
 
+* [TransparentLogin](#TransparentLogin)
+
 
 
 
@@ -116,6 +118,18 @@ The tutorials for online tutorials are a little on the fast side and there isn't
 I have to admit that I am addicted to these online tutorials. Big fan, I can see myself using these in the future, I am a little partial to blues so I may make some changes to the gradients used. 
 
 <a href='https://youtu.be/vs33UKteDpg' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated-login-form/animated-login.gif?raw=true)
+
+
+
+
+## TransparentLogin
+
+This one was suggested to me and I thougt I would give it a try, pretty simple and really like the way it looks. The background image is from when I lived in Florida near the Black Creek. My Daughter and I would canoe out with the gators and look for adventures. 
+
+<a href='https://youtu.be/yiIi82xVjqo' target='_blank'>link to tutorial</a>
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/animated-login-form/animated-login.gif?raw=true)
