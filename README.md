@@ -26,6 +26,7 @@ some handy features I thought would be helpful for future development.
 
 * [TransparentLogin](#TransparentLogin)
 
+* [ContactForm](#ContactForm)
 
 
 
@@ -133,6 +134,18 @@ This one was suggested to me and I thougt I would give it a try, pretty simple a
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/transparent-login/transparent-login.gif?raw=true)
+
+
+
+
+## ContactForm
+
+This tutorial was helpful with positioning using grid and flexbox. I made a few tweaks to get it to show the way I wanted with the colors that I wanted. I think this will come in handy, I like how the tutorial used tranparent for the text for CONTACT. 
+
+<a href='https://youtu.be/6iPWBi1tpEs' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/contact-page/contact-page.gif?raw=true)
 
 
 
