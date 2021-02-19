@@ -157,4 +157,4 @@ This tutorial was a quick one and really cool animation for text.
 <a href='https://youtu.be/ccO2B40zkv4' target='_blank'>link to tutorial</a>
 
 
-![DeployedPhoto]()
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/text-animation/textAnimation.gif?raw=true)
