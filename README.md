@@ -150,3 +150,11 @@ This tutorial was helpful with positioning using grid and flexbox. I made a few 
 
 
 
+## AnimatedText
+
+This tutorial was a quick one and really cool animation for text.  
+
+<a href='https://youtu.be/ccO2B40zkv4' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto]()
