@@ -30,6 +30,8 @@ some handy features I thought would be helpful for future development.
 
 * [NeonLightText](#NeonLightText)
 
+* [WaterWaveText](#WaterWaveText)
+
 
 
 
@@ -172,3 +174,17 @@ I like how they used the z-layering for the bluring effect of the light.
 
 
 ![DeployedPhoto](/neon-light-text/finished.jpg)
+
+
+
+
+## WaterWaveText
+
+This was a good introduction into clip path. There was a clip path maker tool that was used to set up the animation.
+
+<a href='https://bennettfeely.com/clippy/' target='_blank'>Here is a link to the tool.</a>
+
+<a href='https://youtu.be/Tf6qm5JMUXQ' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](/water-wave-text/wave.gif)
