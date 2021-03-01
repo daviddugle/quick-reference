@@ -28,6 +28,8 @@ some handy features I thought would be helpful for future development.
 
 * [ContactForm](#ContactForm)
 
+* [NeonLightText](#NeonLightText)
+
 
 
 
@@ -158,3 +160,15 @@ This tutorial was a quick one and really cool animation for text.
 
 
 ![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/text-animation/textAnimation.gif?raw=true)
+
+
+
+
+## NeonLightText
+
+I like how they used the z-layering for the bluring effect of the light.  
+
+<a href='https://youtu.be/0ltdZ8CrqG8' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](/neon-light-text/finished.jpg)
