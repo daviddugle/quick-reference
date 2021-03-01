@@ -32,6 +32,9 @@ some handy features I thought would be helpful for future development.
 
 * [WaterWaveText](#WaterWaveText)
 
+* [JavaScriptClock](#JavaScriptClock)
+
+
 
 
 
@@ -188,3 +191,16 @@ This was a good introduction into clip path. There was a clip path maker tool th
 
 
 ![DeployedPhoto](/water-wave-text/wave.gif)
+
+
+
+
+## JavaScriptClock
+
+The clock in itself is pretty cool, but when you use the date() to get the current time and then use rotateZ for the clock hands...that's just too cool.  
+
+<a href='https://youtu.be/weZFfrjF-k4' target='_blank'>link to tutorial</a>
+
+
+![DeployedPhoto](/javascript-clock/js_clock.gif)
+
