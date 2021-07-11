@@ -154,4 +154,4 @@ Had not done one of these in a while and wanted to keep in practice.
 
 <a href='https://youtu.be/YrOq7OpRV8I' target='_blank'>link to tutorial</a>
 
-![DeployedPhoto](/shooting-star-animation/ShootingStar.gif)
+![DeployedPhoto](https://github.com/daviddugle/quick-reference/blob/main/shooting-star-animation/shootingStar.gif?raw=true)
